@@ -1,0 +1,29 @@
+body{
+border-style: solid;
+	border-color: peachpuff;
+	border-width: 10px;
+}
+.Div1{
+    background-color: peachpuff;
+  padding:5px 5px 5px ;
+  margin-left: 50px;
+}
+.Div2{
+	background-color: peachpuff;
+	padding: 10px 10px 10px ;
+	margin-left: auto;
+}
+h1{
+	font-family: cursive ;
+	color: peachpuff;
+	text-shadow: pinksmoke 2px 2px;
+}
+ul{
+	font-family: serif;
+	color: peachpuff;
+}
+img{
+	border-style: inset;
+	border-color: palegoldenrod;
+	border-width: 5px;
+}
